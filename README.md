@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://reactrouter.com/_brand/react-router-brand-assets/lockup/Light.png" alt="React Router" width="360" />
+<img src="https://reactrouter.com/_brand/react-router-brand-assets/lockup/Dark.png" alt="React Router" width="360" />
 
 <br />
 
