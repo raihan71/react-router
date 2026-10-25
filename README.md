@@ -3,7 +3,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/user-attachments/assets/15cb2f0a-3729-45fc-be52-232dc6877135"
+      srcset="https://raw.githubusercontent.com/remix-run/react-router-website/refs/heads/main/public/_brand/react-router-brand-assets/lockup/Dark.png"
     />
     <img
       src="https://raw.githubusercontent.com/remix-run/react-router-website/refs/heads/main/public/_brand/react-router-brand-assets/lockup/Light.png"
