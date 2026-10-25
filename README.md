@@ -3,11 +3,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://reactrouter.com/_brand/react-router-brand-assets/lockup/Light.png"
+      srcset="https://reactrouter.com/_brand/react-router-brand-assets/lockup/Dark.png"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://reactrouter.com/_brand/react-router-brand-assets/lockup/Dark.png"
+      srcset="https://reactrouter.com/_brand/react-router-brand-assets/lockup/Light.png"
     />
     <img
       src="https://reactrouter.com/_brand/react-router-brand-assets/lockup/Light.png"
