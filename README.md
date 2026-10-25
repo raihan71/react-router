@@ -10,7 +10,7 @@
       srcset="https://reactrouter.com/_brand/react-router-brand-assets/lockup/Light.png"
     />
     <img
-      src="https://reactrouter.com/_brand/react-router-brand-assets/lockup/Light.png"
+      src="https://reactrouter.com/_brand/react-router-brand-assets/lockup/Dark.png"
       alt="React Router"
       width="360"
     />
