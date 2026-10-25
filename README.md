@@ -5,10 +5,6 @@
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/remix-run/react-router-website/refs/heads/main/public/_brand/react-router-brand-assets/lockup/Dark.png"
     />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/remix-run/react-router-website/refs/heads/main/public/_brand/react-router-brand-assets/lockup/Light.png"
-    />
     <img
       src="https://raw.githubusercontent.com/remix-run/react-router-website/refs/heads/main/public/_brand/react-router-brand-assets/lockup/Light.png"
       alt="React Router"
